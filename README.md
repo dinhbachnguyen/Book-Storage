@@ -7,14 +7,14 @@
 
 Dernière question traitée : Gestion des approbations et des utilisateurs
 
-# NOTATION
+# Notation
 
 Pour commencer le projet, choisir le fichier "register.html" dans le "main" 
 qui permet d'aller à la page de connexion principale.
 
 ----
 
-# CAHIER DES CHARGES
+# Cahier des charges
 
 ## Etat de réalisation
 
@@ -46,7 +46,7 @@ Pas-réalisé: 0%
     + Livre
 
 
-# DATABASE
+# Database
 
 ## Script SQL PHPMyadmin:
 
