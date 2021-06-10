@@ -3,7 +3,9 @@
 | Binôme  | Valeurs |
 | ------------- |:-------------:|
 | N°     | 08    |
-| Membres      | Dinh Bach Nguyen     | Julien Billerot      | Pierre Bosc
+| Membres      | Dinh Bach Nguyen     
+               | Julien Billerot      
+               | Pierre Bosc
 
 Dernière question traitée : Gestion des approbations et des utilisateurs
 
