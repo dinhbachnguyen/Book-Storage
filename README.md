@@ -3,9 +3,9 @@
 | Binôme  | Valeurs |
 | ------------- |:-------------:|
 | N°     | 08    |
-| Membres      | Dinh Bach Nguyen     
-               | Julien Billerot      
-               | Pierre Bosc
+| Membres      | Dinh Bach Nguyen    
+|              | Julien Billerot  
+|              | Pierre Bosc
 
 Dernière question traitée : Gestion des approbations et des utilisateurs
 
@@ -14,7 +14,7 @@ Dernière question traitée : Gestion des approbations et des utilisateurs
 Pour commencer le projet, choisir le fichier "register.html" dans le "main" 
 qui permet d'aller à la page de connexion principale.
 
-----
+--------------------------------------
 
 # Cahier des charges
 
@@ -47,6 +47,7 @@ Pas-réalisé: 0%
 - Books: 100%
     + Livre
 
+--------------------------------------
 
 # Database
 
