@@ -1,13 +1,5 @@
-# PROJET - GROUPE 8 
+# Gestion de livres
 
-| Binôme  | Valeurs |
-| ------------- |:-------------:|
-| N°     | 08    |
-| Membres      | Dinh Bach Nguyen    
-|              | Julien Billerot  
-|              | Pierre Bosc
-
-Dernière question traitée : Gestion des approbations et des utilisateurs
 
 # Notation
 
