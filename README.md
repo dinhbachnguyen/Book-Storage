@@ -40,7 +40,7 @@ Les utilisateurs peuvent ajouter, rechercher, visualiser, modifier et supprimer 
 git clone https://github.com/votre-utilisateur/gestion-de-livre](https://github.com/dinhbachnguyen/Book-Storage.git
 ````
 
-2. Importer la base de données dans votre serveur MySQL.
+2. Importer la base de données `database.sql` dans votre serveur MySQL.
 
 3. Configurer la connexion à la base de données dans le fichier `config.php`.
 
@@ -124,5 +124,6 @@ editeur VARCHAR(255) NOT NULL);
 INSERT INTO livre (titre, auteur, annee, editeur)
 VALUES ('Da Vinci Code','Dan Brown','2003','Jason Kaufman');
 -->
+
 
 
