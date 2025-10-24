@@ -40,7 +40,7 @@ Pas-réalisé: 0%
     + Livre
 
 --------------------------------------
-
+<!--
 # Database
 
 ## Script SQL PHPMyadmin:
@@ -71,4 +71,5 @@ editeur VARCHAR(255) NOT NULL);
 
 INSERT INTO livre (titre, auteur, annee, editeur)
 VALUES ('Da Vinci Code','Dan Brown','2003','Jason Kaufman');
+-->
 
